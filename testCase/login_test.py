@@ -12,7 +12,7 @@ class LoginPage(unittest.TestCase):
     def test_login(self):
         user = 'admin'
         pwd = '111111'
-        Login(self.driver).login(user, pwd)
+        Login(self.driver).login(user, pwd).gesture_set()
 
 
 if __name__ == '__main__':

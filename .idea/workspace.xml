@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
+            <state relative-caret-position="550">
               <caret line="24" column="29" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="29" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -25,8 +25,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comm/appDriver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+            <state relative-caret-position="-7">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -37,8 +37,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comm/common.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="193">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -49,20 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pageElement/loginpage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pageElement/gesturepasswordPage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="243">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -71,10 +59,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pageElement/gesturepasswordPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pageElement/main_page.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testCase/login_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="225">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -95,25 +104,27 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/config/config.py" />
+        <option value="$PROJECT_DIR$/comm/common.py" />
         <option value="$PROJECT_DIR$/comm/appDriver.py" />
         <option value="$PROJECT_DIR$/testCase/login_test.py" />
-        <option value="$PROJECT_DIR$/comm/common.py" />
         <option value="$PROJECT_DIR$/pageElement/loginpage.py" />
         <option value="$PROJECT_DIR$/pageElement/gesturepasswordPage.py" />
+        <option value="$PROJECT_DIR$/pageElement/main_page.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="163" />
-    <option name="y" value="151" />
-    <option name="width" value="1342" />
-    <option name="height" value="879" />
+    <option name="x" value="287" />
+    <option name="y" value="302" />
+    <option name="width" value="1625" />
+    <option name="height" value="1008" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,7 +156,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for login_test.LoginPage">
+  <component name="RunManager" selected="Python tests.Unittests for login_test.LoginPage.test_login">
     <configuration name="appDriver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="risk_auto_android" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -259,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for login_test.LoginPage" />
         <item itemvalue="Python tests.Unittests for login_test.LoginPage.test_login" />
+        <item itemvalue="Python tests.Unittests for login_test.LoginPage" />
         <item itemvalue="Python tests.Unittests in login_test.py" />
-        <item itemvalue="Python.loginpage" />
         <item itemvalue="Python.appDriver" />
+        <item itemvalue="Python.loginpage" />
       </list>
     </recent_temporary>
   </component>
@@ -281,47 +291,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_login_test_py - 2020.02.26 at 09h 29m 22s.xml">
-      <configuration name="Unittests in login_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_login_test_py - 2020.02.26 at 09h 34m 14s.xml">
-      <configuration name="Unittests in login_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_login_test_py - 2020.02.26 at 09h 39m 53s.xml">
-      <configuration name="Unittests in login_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_login_test_LoginPage_test_login - 2020.02.26 at 09h 41m 46s.xml">
-      <configuration name="Unittests for login_test.LoginPage.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_login_test_py - 2020.02.26 at 10h 24m 14s.xml">
-      <configuration name="Unittests in login_test.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_login_test_LoginPage_test_login - 2020.02.26 at 13h 51m 25s.xml">
-      <configuration name="Unittests for login_test.LoginPage.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_login_test_LoginPage_test_login - 2020.02.26 at 13h 59m 35s.xml">
-      <configuration name="Unittests for login_test.LoginPage.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_login_test_LoginPage_test_login - 2020.02.27 at 15h 24m 45s.xml">
-      <configuration name="Unittests for login_test.LoginPage.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_login_test_LoginPage_test_login - 2020.02.27 at 15h 30m 48s.xml">
-      <configuration name="Unittests for login_test.LoginPage.test_login" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_login_test_LoginPage - 2020.02.27 at 15h 34m 22s.xml">
+    <history-entry file="Unittests_for_login_test_LoginPage - 2020.03.02 at 16h 05m 09s.xml">
       <configuration name="Unittests for login_test.LoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_test_py - 2020.03.02 at 16h 14m 41s.xml">
+      <configuration name="Unittests in login_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_test_LoginPage - 2020.03.02 at 16h 17m 16s.xml">
+      <configuration name="Unittests for login_test.LoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_test_py - 2020.03.02 at 16h 19m 54s.xml">
+      <configuration name="Unittests in login_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_test_LoginPage - 2020.03.02 at 16h 23m 22s.xml">
+      <configuration name="Unittests for login_test.LoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_test_LoginPage - 2020.03.02 at 16h 26m 12s.xml">
+      <configuration name="Unittests for login_test.LoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_login_test_py - 2020.03.02 at 16h 26m 39s.xml">
+      <configuration name="Unittests in login_test.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_test_LoginPage - 2020.03.02 at 16h 26m 51s.xml">
+      <configuration name="Unittests for login_test.LoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_test_LoginPage_test_login - 2020.03.02 at 16h 28m 15s.xml">
+      <configuration name="Unittests for login_test.LoginPage.test_login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_test_LoginPage_test_login - 2020.03.02 at 16h 39m 07s.xml">
+      <configuration name="Unittests for login_test.LoginPage.test_login" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="163" y="151" width="1342" height="879" extended-state="0" />
+    <frame x="230" y="242" width="1300" height="806" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17331289" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20490506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4029451" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33925927" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -376,7 +386,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/config.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
+        <state relative-caret-position="550">
           <caret line="24" column="29" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="29" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
@@ -386,8 +396,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/comm/appDriver.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        <state relative-caret-position="-7">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
@@ -396,41 +406,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/comm/common.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="193">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
           <folding>
             <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pageElement/loginpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testCase/login_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        <state relative-caret-position="225">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pageElement/loginpage.py">
+    <entry file="file://$PROJECT_DIR$/pageElement/gesturepasswordPage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="950">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pageElement/gesturepasswordPage.py">
+    <entry file="file://$PROJECT_DIR$/pageElement/main_page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
