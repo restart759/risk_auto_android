@@ -1,0 +1,23 @@
+[2020-02-27 15:24:35] INFO [__init__: remote_connection.py, 117] Could not connect to port 4723 on host localhost
+[2020-02-27 15:24:35] INFO [__init__: remote_connection.py, 136] Could not get IP address for host: localhost
+[2020-02-27 15:24:37] WARNING [urlopen: connectionpool.py, 662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003700860>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+[2020-02-27 15:24:39] WARNING [urlopen: connectionpool.py, 662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003700940>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+[2020-02-27 15:24:41] WARNING [urlopen: connectionpool.py, 662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003700908>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+[2020-02-27 15:24:43] INFO [app_driver: appDriver.py, 31] driver加载失败 HTTPConnectionPool(host='localhost', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003700A20>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+[2020-02-27 15:30:01] INFO [__init__: remote_connection.py, 117] Could not connect to port 4723 on host localhost
+[2020-02-27 15:30:01] INFO [__init__: remote_connection.py, 136] Could not get IP address for host: localhost
+[2020-02-27 15:30:03] WARNING [urlopen: connectionpool.py, 662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003720860>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+[2020-02-27 15:30:05] WARNING [urlopen: connectionpool.py, 662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003720940>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+[2020-02-27 15:30:07] WARNING [urlopen: connectionpool.py, 662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000000003720908>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+[2020-02-27 15:30:29] INFO [urlopen: poolmanager.py, 358] Redirecting http://localhost:4723/wd/hub/session -> http://localhost:4723/wd/hub/session/484337a7-2b4f-4661-a3c4-19d9234412dc
+[2020-02-27 15:30:29] INFO [app_driver: appDriver.py, 29] driver加载成功 <appium.webdriver.webdriver.WebDriver (session="484337a7-2b4f-4661-a3c4-19d9234412dc")>
+[2020-02-27 15:30:36] INFO [wait_until_visible_app: common.py, 70] Wait until element with //android.widget.TextView[@text="密码"]/../android.view.View[@index="4"]/android.widget.EditText visible
+[2020-02-27 15:30:36] INFO [find_element: common.py, 16] 查找的元素存在 //android.widget.EditText[@text="请输入登录名"]
+[2020-02-27 15:30:43] INFO [find_element: common.py, 16] 查找的元素存在 //android.widget.TextView[@text="密码"]/../android.view.View[@index="4"]/android.widget.EditText
+[2020-02-27 15:30:48] INFO [find_element: common.py, 16] 查找的元素存在 //android.widget.TextView[@text="登录"]
+[2020-02-27 15:34:04] INFO [urlopen: poolmanager.py, 358] Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/2003beb1-ff7e-4c9a-b597-357c17be7117
+[2020-02-27 15:34:04] INFO [app_driver: appDriver.py, 29] driver加载成功 <appium.webdriver.webdriver.WebDriver (session="2003beb1-ff7e-4c9a-b597-357c17be7117")>
+[2020-02-27 15:34:11] INFO [wait_until_visible_app: common.py, 70] Wait until element with //android.widget.TextView[@text="密码"]/../android.view.View[@index="4"]/android.widget.EditText visible
+[2020-02-27 15:34:11] INFO [find_element: common.py, 16] 查找的元素存在 //android.widget.EditText[@text="请输入登录名"]
+[2020-02-27 15:34:17] INFO [find_element: common.py, 16] 查找的元素存在 //android.widget.TextView[@text="密码"]/../android.view.View[@index="4"]/android.widget.EditText
+[2020-02-27 15:34:22] INFO [find_element: common.py, 16] 查找的元素存在 //android.widget.TextView[@text="登录"]

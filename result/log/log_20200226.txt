@@ -1,0 +1,29 @@
+[2020-02-26 09:21:12] INFO [setUpClass: appDriver.py, 29] driver加载成功 <appium.webdriver.webdriver.WebDriver (session="ef777149-6121-409d-9957-3c9923a9244e")>
+[2020-02-26 09:27:01] INFO [setUpClass: appDriver.py, 29] driver加载成功 <appium.webdriver.webdriver.WebDriver (session="2388c928-45a2-449d-906e-bd65f2efb22f")>
+[2020-02-26 09:29:22] INFO [setUpClass: appDriver.py, 29] driver加载成功 <appium.webdriver.webdriver.WebDriver (session="92185e23-3c69-42d0-ad0b-1b8270c28847")>
+[2020-02-26 09:29:22] ERROR [find_element: common.py, 31] 查找的元素不存在 请输入登录名 Message: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource.
+
+[2020-02-26 09:34:13] INFO [setUpClass: appDriver.py, 29] driver加载成功 <appium.webdriver.webdriver.WebDriver (session="b8ed0ec1-829c-4bc8-87e9-c4c61d12f18a")>
+[2020-02-26 09:34:13] ERROR [find_element: common.py, 29] 查找的元素不存在 请输入登录名 Message: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource.
+
+[2020-02-26 09:39:52] INFO [setUpClass: appDriver.py, 29] driver加载成功 <appium.webdriver.webdriver.WebDriver (session="0813d3ad-c488-45ba-b7a2-213415bf41b9")>
+[2020-02-26 09:39:52] ERROR [find_element: common.py, 30] 查找的元素不存在 请输入登录名 Message: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource.
+
+[2020-02-26 09:41:45] INFO [setUpClass: appDriver.py, 29] driver加载成功 <appium.webdriver.webdriver.WebDriver (session="6e4c6d3c-8c52-4077-ac1d-3b4c3b85a33e")>
+[2020-02-26 09:41:45] ERROR [find_element: common.py, 30] uiautomator查找的元素不存在 请输入登录名 Message: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource.
+
+[2020-02-26 10:24:09] INFO [setUpClass: appDriver.py, 29] driver加载成功 <appium.webdriver.webdriver.WebDriver (session="01a3015f-556f-41c0-81c9-689ee5ae6648")>
+[2020-02-26 10:24:14] ERROR [wait_until_visible_app: common.py, 65] Failed to wait with ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+[2020-02-26 10:24:14] ERROR [find_element: common.py, 30] uiautomator查找的元素不存在 请输入登录名 Message: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource.
+
+[2020-02-26 13:51:15] INFO [__init__: remote_connection.py, 117] Could not connect to port 4723 on host localhost
+[2020-02-26 13:51:15] INFO [__init__: remote_connection.py, 136] Could not get IP address for host: localhost
+[2020-02-26 13:51:18] WARNING [urlopen: connectionpool.py, 662] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000036ED588>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+[2020-02-26 13:51:21] WARNING [urlopen: connectionpool.py, 662] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000036ED668>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+[2020-02-26 13:51:23] WARNING [urlopen: connectionpool.py, 662] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000036ED630>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',)': /wd/hub/session
+[2020-02-26 13:51:25] INFO [setUpClass: appDriver.py, 31] driver加载失败 HTTPConnectionPool(host='localhost', port=4723): Max retries exceeded with url: /wd/hub/session (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000000036ED748>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+[2020-02-26 13:59:24] INFO [urlopen: poolmanager.py, 358] Redirecting http://127.0.0.1:4723/wd/hub/session -> http://127.0.0.1:4723/wd/hub/session/4790e8be-19eb-412f-bc38-953cd26eac7a
+[2020-02-26 13:59:24] INFO [app_driver: appDriver.py, 29] driver加载成功 <appium.webdriver.webdriver.WebDriver (session="4790e8be-19eb-412f-bc38-953cd26eac7a")>
+[2020-02-26 13:59:34] INFO [wait_until_visible_app: common.py, 63] Wait until element with android.widget.EditText visible
+[2020-02-26 13:59:35] ERROR [find_element: common.py, 30] uiautomator查找的元素不存在 请输入登录名 Message: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource.
+
