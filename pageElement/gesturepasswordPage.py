@@ -6,7 +6,7 @@ from pageElement.main_page import MainPage
 
 class GesturePasswordPage(Common):
     gesture_pwd = '//android.view.View[@index="10"]/android.view.View'
-    press_gesture = '//android.widget.TextView[contains(text,"手势密码")]'
+    press_gesture = '//android.widget.TextView[contains(@text,"手势密码")]'
 
     def gesture_set(self):
         set_gesture = '手势密码'

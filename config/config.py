@@ -8,6 +8,7 @@ now = time.strftime('%Y%m%d_%H%M%S', time.localtime())
 # print(os.path.dirname(__file__))
 # print(os.path.abspath(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'apps/app-release-ceshi.apk')))
 # print(os.path.abspath(os.path.join(os.path.dirname(__file__), '../apps/app-release-ceshi.apk')))
+
 # 项目路径
 prj_path = os.path.dirname(os.path.dirname(__file__))  # 当前文件的上一级目录
 

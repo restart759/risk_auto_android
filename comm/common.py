@@ -63,6 +63,14 @@ class Common(object):
         sk = self.find_element(element)
         sk.send_keys(keys)
 
+    def back(self):
+        back_button = '//android.widget.TextView[1]/preceding-sibling::android.view.View[1]'
+        self.click(back_button)
+
+    def next(self):
+        next_button = '//android.widget.TextView[@text="下一步"]'
+        self.click(next_button)
+
     def wait_until_visible_app(self, element):
         if '//' in element:
             try:
